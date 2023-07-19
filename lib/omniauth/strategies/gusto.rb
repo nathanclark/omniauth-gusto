@@ -12,7 +12,7 @@ module OmniAuth
 
       option(
         :client_options,
-        site: 'https://api.gusto.com/',
+        site: 'https://api.gusto-demo.com/',
         authorize_url: '/oauth/authorize',
         token_url: '/oauth/token'
       )
